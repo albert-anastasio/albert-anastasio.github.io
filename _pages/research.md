@@ -1,12 +1,8 @@
 ---
 layout: posts
-title: Orthopedic research
+title: Albert Anastasio's current research efforts:
 permalink: /research/
 ---
-
-
-
-# Albert Anastasio's current research efforts:
 
 [reseach gate account](https://www.researchgate.net/profile/Albert_Anastasio)
 
