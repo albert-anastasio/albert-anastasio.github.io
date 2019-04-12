@@ -4,7 +4,12 @@ title: Orthopedic research
 permalink: /research/
 ---
 
-#Albert Anastasio's current research efforts:
+
+
+# Albert Anastasio's current research efforts:
+
+[reseach gate account](https://www.researchgate.net/profile/Albert_Anastasio)
+
 
 Orthopedic Research activities involve writing IRB proposals, abstracts, and final manuscripts, performing chart review, statistical analysis, and measurement of various metrics on radiographic imaging as well as engaging in patient interaction/ultrasound use.  Research interests are broad across subsepcialities of orthopedics, and range from involvement with clinical trials to database studies to retrospective chart reviews. 
 
@@ -84,9 +89,3 @@ FIFA World Cup
 
 •	Medical student research University of Illinois: Dr. Thomas Anastasio, mentor, 2018-present
 
-
-
-
-
-
-link to reseach gate account: https://www.researchgate.net/profile/Albert_Anastasio
