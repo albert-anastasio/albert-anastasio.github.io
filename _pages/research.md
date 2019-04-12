@@ -1,8 +1,10 @@
 ---
 layout: posts
-title: Albert Anastasio's current research efforts:
+title: Albert Anastasio's current research efforts
 permalink: /research/
 ---
+
+
 
 [reseach gate account](https://www.researchgate.net/profile/Albert_Anastasio)
 
